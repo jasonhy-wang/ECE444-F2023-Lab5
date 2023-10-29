@@ -2,6 +2,10 @@
 
 Repo following Example: https://github.com/mjhea0/flaskr-tdd
 
+
+## Lab 5 Unit Tests Contribution
+Unit Tests by Jason - test_unsuccessful_signup_with_non_uoft_email, test_successful_signup:
+
 ## What are the pros and cons of TDD? ##
 
 Test-Driven Development (TDD) is a software development methodology where tests are written before the actual code, ensuring that the system works as intended right from the start. One of the most significant advantages of TDD is that it leads to a more robust and error-free codebase. By focusing on testing first, developers can catch and address issues early in the development process, reducing the cost and effort of bug fixes later on. Additionally, TDD promotes modular and maintainable code since the methodology necessitates writing small, testable units of code. This modularity makes it easier to refactor and enhance the system in the future. Furthermore, TDD provides developers with immediate feedback, fostering a sense of confidence and clarity about the system's functionality.
